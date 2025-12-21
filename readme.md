@@ -13,7 +13,7 @@
 # docker ps -a
 # CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
 # docker rmi d4aaab
-
+#  docker pull nginx
 
 
 ![Image](./docs/img/Screenshot%20(72).png)
